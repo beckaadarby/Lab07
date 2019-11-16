@@ -18,6 +18,11 @@ public class Tree{
 		leaf1.addPoint(200,230);
 		leaf1.addPoint(260,260);
     g.fillPolygon(leaf1);
+    Polygon leaf2 = new Polygon();
+		leaf2.addPoint(110,295);
+		leaf2.addPoint(180,310);
+		leaf2.addPoint(140,340);
+    g.fillPolygon(leaf2);
   }
 
 
