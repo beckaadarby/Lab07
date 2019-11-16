@@ -18,10 +18,8 @@ public class Lab07st extends Applet
 		Background.drawSun(g);
 		Tree.drawTrunk(g);
 		Tree.drawLeaves(g);
-		Ball.drawOutline(g);
 		Ball.drawColors(g);
-		Ball.drawTriangles(g);
 		Ball.drawCenter(g);
-
+		Ball.drawOutline(g);
 	}
 }
